@@ -1,0 +1,25 @@
+.area:hover {
+  border: 1px solid red;
+}
+
+.table {
+  width: 90%;
+  border-collapse: collapse;
+  margin: 50px 20px;
+}
+
+tr {
+  width: 100%;
+  min-height: 30px;
+}
+
+td, th {
+  border: 1px solid black;
+  min-height: 30px;
+}
+
+.bordered {
+  border: 1px solid black;
+  background-color: #dcd7d7;
+  font-family: "Comic Sans MS";
+}
